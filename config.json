@@ -1,0 +1,10 @@
+{
+    "mail_host": "",
+    "mail_port": 25,
+    "mail_tls": false,
+    "mail_user": "",
+    "mail_to": [""],
+    "mail_subject": "Ошибка сервера",
+    "mail_content": "Сервер по адресу {0} выдал: {1}",
+    "urls": ["https://google.com"]
+}
